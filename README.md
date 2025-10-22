@@ -1,0 +1,2 @@
+# ARASTIRMA_YONTEM_TEKNIKLERI
+Nezaket Demirci 
