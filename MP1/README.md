@@ -1,4 +1,13 @@
-MP1 – Araştırma Sorunu ve Amaç
+# MP1 – Konu Tanıtımı ve Araştırma Tasarımı
 
-Bu aşamada projenin temel çerçevesi oluşturulmuştur. Popüler müzik kültüründeki şarkı sözlerinde kadın temsili, cinsiyetçi söylemler ve şiddet unsurları incelenmek üzere araştırma konusu belirlenmiştir.
-Sunum dosyasında araştırma problemi, amaç, önem, sınırlılıklar ve araştırmanın temel soruları yer almaktadır.
+Bu aşama, projenin temel araştırma konusunun belirlenmesi ve çalışmanın genel çerçevesinin oluşturulmasını kapsamaktadır. Müzik kültüründe yer alan cinsiyetçi söylemlerin genç bireyler üzerindeki etkileri incelenmek üzere araştırma sorusu, çalışma amacı ve hipotezler yapılandırılmıştır.
+
+Bu klasörde:
+- Proje konusu ve seçilme gerekçesi
+- Araştırma sorusu
+- Hipotez
+- Çalışmanın kapsamı ve sınırları
+
+yer almaktadır.
+
+MP1 aşaması, projenin teorik temelini oluşturur ve veri toplama/analiz süreçlerinin yönünü belirler.
